@@ -2,4 +2,4 @@
 
 Saved Model -> https://drive.google.com/drive/folders/1isWosT1tYpA1YnnsimfSw9yge-jwv1i0?usp=sharing
 
-Our paper -> https://www.aclweb.org/anthology/people/m/moataz-mansour/
+Paper -> https://www.aclweb.org/anthology/people/m/moataz-mansour/
